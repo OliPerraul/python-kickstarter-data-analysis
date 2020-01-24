@@ -1,0 +1,27 @@
+
+
+number of video game projects: 27169
+successful video game projects: 24563
+live video game projects: 2606
+failed video game projects: 0
+average goal: 90 814.35330707792
+median goal: 8000.0
+goal std: 16 290 17.5937733883
+
+
+average goal: 90 814
+average usd pledged: 56 228   .92247913251
+
+
+median usd pledged: 9 374.5761725
+usd pledged std: 257685.84236211074
+
+
+
+
+Entreprenariat
+
+
+*  GEM Echec => peur
+    * N'est plus un taboo
+    * Echec a plus de chance de succes
